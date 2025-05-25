@@ -40,8 +40,8 @@ Ensure you have the following installed on your system:
 1. **Clone the Repository**  
    Open your terminal and run the following command to clone the repository:
    ```bash
-   git clone https://github.com/username/project_name
-   cd project_name
+   git clone https://github.com/Thushidan/Job-Finder
+   cd Job-Finder
    ```  
 
 2. **Install Dependencies**  
