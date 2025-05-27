@@ -1,0 +1,44 @@
+{
+  "jobs": [
+    {
+      "id": "1d09",
+      "title": "UI Engineer",
+      "company": "Sana commerce",
+      "location": "Belarus",
+      "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.",
+      "job_type": "Full-Time",
+      "posted_date": "25/05/2025",
+      "posted_by": "Tech Labs (Pvt) Ltd"
+    },
+    {
+      "id": "d2d6",
+      "title": "Architect",
+      "company": "WSO2",
+      "location": "Montenegro",
+      "description": "Running the Project\nYou can follow below instructions for the start the application.\n\nSetup .env File\nCreate a file called .env in the root folder\n\nAdd these env variables to that file\n\nVITE_API_URL=http://localhost:5000\nStart the React Application\nRun the following command to start the React application locally on port 5173:\n\nnpm run dev",
+      "job_type": "Full-Time",
+      "posted_date": "26/05/2025",
+      "posted_by": "Tech Labs (Pvt) Ltd"
+    },
+    {
+      "id": "15f5",
+      "title": "System Engineer",
+      "company": "Sysco Labs",
+      "location": "Fiji",
+      "description": "roject Structure\nassets: To manage all the assets.\ncomponents: To manage all the components.\nconstants: To manage all the constant data.\npages: To manage all the pages.\nroutes: To manage all the routes.\nservices: To manage all the api routes and calls.\ntypes: To manage all the typescript types.\nutils: To manage all the utility functionalities.\nAvailable Scripts",
+      "job_type": "Part-Time",
+      "posted_date": "26/05/2025",
+      "posted_by": "Tech Labs (Pvt) Ltd"
+    },
+    {
+      "id": "d2d6",
+      "title": "Architect",
+      "company": "WSO2",
+      "location": "Montenegro",
+      "description": "Running the Project\nYou can follow below instructions for the start the application.\n\nSetup .env File\nCreate a file called .env in the root folder\n\nAdd these env variables to that file\n\nVITE_API_URL=http://localhost:5000\nStart the React Application\nRun the following command to start the React application locally on port 5173:\n\nnpm run dev",
+      "job_type": "Full-Time",
+      "posted_date": "26/05/2025",
+      "posted_by": "Tech Labs (Pvt) Ltd"
+    }
+  ]
+}
