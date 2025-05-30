@@ -46,3 +46,7 @@ export type SearchBarProps = {
     setCompany: Dispatch<SetStateAction<string>>,
     handleSearch: ()=> void
 }
+
+export type PrivateRouteProps = {
+    page: React.ReactNode
+}

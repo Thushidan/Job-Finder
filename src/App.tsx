@@ -1,9 +1,13 @@
 import MainNavigation from "./router/MainNavigation";
+import AuthProvider from "./store/provider/AuthProvider";
 
 function App() {
 
   return (
-    <MainNavigation />
+    <AuthProvider>
+      <MainNavigation />
+    </AuthProvider>
+  
   )
 }
 

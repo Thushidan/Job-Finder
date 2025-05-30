@@ -111,8 +111,9 @@ const JobListingPage = () => {
 
         <div className="px-[3rem] pl-0">
           <div className="pb-[2rem]">
-            {jobs.length !== 0 && <h5 className="font-bold text-[2rem]">Job results found ... </h5>}
-            <h5 className="text-[#676767] font-light pt-[0.5rem] text-[1.2rem]">Picked based on your preference and selections</h5>
+            {jobs.length !== 0 && <h5 className="font-bold text-[2rem]">Job results found ... <br/><span className="text-[#676767] font-light pt-[0.5rem] text-[1.2rem]">Picked based on your preference and selections</span></h5>}
+            {jobs.length == 0 && <h5 className="font-bold text-[2rem]">No Jobs found !</h5>}
+            {/* <h5 className="text-[#676767] font-light pt-[0.5rem] text-[1.2rem]">Picked based on your preference and selections</h5> */}
           </div>
 
           <div>
