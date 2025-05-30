@@ -94,6 +94,8 @@ VITE_API_URL=http://localhost:5000
 - `services`: To manage all the api routes and calls.
 - `types`: To manage all the typescript types.
 - `utils`: To manage all the utility functionalities.
+- `config`: To manage all the configurations.
+- `store`: To manage all the state managment.
 
 ## Available Scripts
 
@@ -111,6 +113,7 @@ VITE_API_URL=http://localhost:5000
 - React: Frontend library for building user interfaces.
 - JSON Server: A mock REST API for testing and prototyping.
 - Lucid Icons: Icon pack
+- Firebase: Authentication and data persistance.
 
 ## Contributing
 
